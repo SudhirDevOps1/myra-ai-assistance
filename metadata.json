@@ -1,0 +1,6 @@
+{
+  "name": "MYRA",
+  "description": "State-of-the-art AI Voice Assistant with direct PCM streaming, full-control phone command parsing, and deep custom overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
